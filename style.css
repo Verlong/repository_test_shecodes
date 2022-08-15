@@ -94,3 +94,22 @@ padding: 18px 30px;
         text-align: center;
     }
 }
+
+.footer_talk {
+background: var(--secondary-color);
+position: absolute;
+width: 1160px;
+height: 200px;
+left: 67px;
+top: 3000px;
+padding: auto;
+text-align: center;
+}
+
+.contacts {
+position: absolute;
+width: 278px;
+height: 122px;
+left: 507px;
+top: 3354px;
+}
