@@ -28,7 +28,7 @@ h2 {
   font-size: 64px;
   font-weight: bold;
 }
-h4{
+h3{
   font-size: 48px;
 }
 
@@ -142,7 +142,7 @@ nav li.active a {
     font-size: 44px;
   }
 
-  h4{
+  h3{
     font-size: 26px;
   }
 
@@ -202,4 +202,14 @@ footer .social-links a{
 footer .social-links a:hover {
   color: white;
   background: var(--branding-color);
+}
+
+.projects-links {
+  text-decoration: none;
+  color:#272142 ;
+  font-size: 24px;
+}
+
+.projects-links:hover {
+  color: var(--branding-color);
 }
